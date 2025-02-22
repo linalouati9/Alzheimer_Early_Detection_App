@@ -160,6 +160,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project is part of the **ALX Webstack Portfolio** and was inspired by the need to leverage technology for healthcare advancements. Special thanks to the creators of TensorFlow Lite, Flask, Docker, and the Flutter community for their support and resources.
+This project is part of my **first** professional research project and was inspired by the need to leverage technology for advancements in healthcare. Special thanks to the creators of TensorFlow Lite, Flask, Docker, and the Flutter community for their support and resources.
 
 ---
